@@ -1,74 +1,27 @@
-<<<<<<< HEAD
-# PullUp-frontend
-=======
-# Getting Started with Create React App
+PullUp is your ultimate web application for connecting basketball players and finding the perfect court to shoot hoops. Whether you're a seasoned player or just getting started, PullUp enhances your basketball experience by helping you discover nearby courts and connect with fellow enthusiasts.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📍 Overview
+PullUp is designed to bridge the gap between basketball lovers by providing an easy way to locate local courts and build connections within the basketball community. The app features a powerful court locator, social connectivity tools, and comprehensive court details to make finding and enjoying the game easier than ever.
 
-## Available Scripts
+🔑 Key Features
+Court Locator: Quickly find basketball courts within a set radius. Get detailed information including court names, addresses, images, and user reviews to choose the best spot for your game.
+Social Connectivity: Connect with other players, organize pick-up games, and forge new relationships through shared interests in basketball.
+Map Integration: Powered by the Google Maps API, view court locations and get precise driving directions to your chosen courts.
+User Reviews and Ratings: Rate and review courts, share your experiences, and read others' feedback to find the best places to play.
+🛠️ Technologies Used
+Frontend: JavaScript, React, HTML/CSS
+Backend: Spring Boot, Java
+Database: MySQL
+Cloud Storage: AWS S3
+APIs: Google Maps API
+🚀 Development Approach
+Built with Agile and Scrum methodologies, PullUp was developed through iterative sprints and continuous user feedback. This approach ensured a high-quality, user-centric application that meets the needs of the basketball community.
 
-In the project directory, you can run:
+🛠️ Getting Started
+To get started with PullUp, simply download the app from your preferred app store, sign in, and start exploring nearby basketball courts. Connect with other players, organize games, and enjoy the game like never before!
 
-### `npm start`
+💬 Feedback and Contributions
+We welcome your feedback and contributions! If you have suggestions, find a bug, or want to contribute to the development of PullUp, please check out our [GitHub repository](https://github.com/JWDiehl/PullUpApp.git) and join our community of basketball enthusiasts.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> ba4275f (Initialize project using Create React App)
+Contact Us
+For any questions or support, please reach out to us at jondiehl22@gmail.com & williamchapman53@gmail.com.
