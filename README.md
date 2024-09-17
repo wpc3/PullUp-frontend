@@ -17,7 +17,7 @@ PullUp is designed to bridge the gap between basketball lovers by providing an e
 
 ## 🛠️ **Technologies Used**
 
-- **Frontend:** JavaScript, React, HTML/CSS
+- **Frontend:** REACT
 - **Backend:** Spring Boot, Java
 - **Database:** MySQL
 - **Cloud Storage:** AWS S3
