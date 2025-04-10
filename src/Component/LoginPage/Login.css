@@ -1,0 +1,47 @@
+.logo img {
+    width: 300px;
+    justify-content: center;
+}
+
+.Background {
+    background-image: url('../Assets/PullUPCourt.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+}
+
+.tagline {
+    margin: 0;
+}
+
+
+form {
+    background-color: transparent;
+    /* Keep form background transparent */
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    border-radius: 4px;
+}
+
+#button1 {
+    background-color: #676767;
+    /* Green background */
+    border-color: #718354;
+    /* Green border */
+    color: #eee4db;
+    /* text */
+    font-weight: bold;
+    /* Bold text */
+    width: 100%;
+}
