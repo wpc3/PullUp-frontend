@@ -4,8 +4,7 @@ const Login = () => {
   return (
     <body>
     <title>PullUp</title>
-    <div class="container">
-        <h1>PullUp</h1>
+    <div class="container">      
         <h6 class="centered-text">Conquer The Parks</h6>
         <form id="locationForm">
             <div class="form-group">
