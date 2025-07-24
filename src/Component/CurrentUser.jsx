@@ -8,5 +8,19 @@ export const UserProvider = ({ children }) => {
         return storedUser ? JSON.parse(storedUser) : null;
     });
 
-    
-}
+    useEffect(() => {
+        if (currentLoggedInUser) {
+            localStorage.setItem('currentLoggedInUser',JSON.stringify(currentLoggedInUser));
+        } else {
+            localStorage.removeItem('currentLoggedInUser');
+        }
+    }, [currentLoggedInUser]);
+
+    return (
+        <UserContext.Provider value={{ currentLoggedInUser, setCurrentLoggedInUser }}>
+            {children}
+        </UserContext.Provider>
+    );
+};
+
+export const useUser = () => useContext(UserContext);
